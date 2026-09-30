@@ -4050,7 +4050,7 @@ color: #072d47ff;
 /* Estilos para el encabezado de la página de Publicaciones */
 body.publications-page #header {
     position: relative;
-    background-image: url('../../images/header.jpg'); /* Si es diferente a la del home */
+    background-image: url('../../images/reefs.jpg'); /* Si es diferente a la del home */
     background-size: cover;
     background-position: center center; /* Ajusta si quieres cambiar el "recorte" de la imagen */
     height: 300px; /* <--- ¡Este es el valor para reducir la altura de la parte marrón! */
